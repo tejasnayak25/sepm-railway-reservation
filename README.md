@@ -52,8 +52,6 @@ This repository contains the **source code** and associated configuration files.
 
 ## Tech Stack
 
-> Update according to what you actually use.
-
 - **Frontend:** HTML, CSS, JavaScript (or React / Angular / Vue)
 - **Backend:** Node.js / Express (or Java / Spring / Python / PHP)
 - **Database:** MySQL / PostgreSQL
@@ -63,8 +61,6 @@ This repository contains the **source code** and associated configuration files.
 ---
 
 ## Database Design
-
-> Example tables (adjust to match your actual schema):
 
 - **users**: `user_id`, `name`, `email`, `password`, `phone`
 - **trains**: `train_id`, `train_name`, `source`, `destination`
