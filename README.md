@@ -16,7 +16,7 @@ Admins can manage trains, schedules, fares, and monitor bookings.
 
 ## Overview
 
-The **Railway Reservation System** is a mini-project built as part of a Software Engineering / SDLC-based assignment.  
+The **Railway Reservation System** is a mini-project built as part of a Software Engineering assignment.  
 It demonstrates:
 
 - Requirements gathering  
